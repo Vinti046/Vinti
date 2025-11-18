@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Vinti!
 
-🎓 First-year CSE student | Tier-3 college  
+🎓 First-year CSE student | Tier-2college  
 🌍 Dreaming big from a small town  
-🎯 Learning Full Stack Web Development + C++ DSA  
+🎯 Learning Full Stack Web Development + JAVA DSA  
 🛠️ Currently building: Portfolio sites & real-world mini projects  
 📚 Exploring: Open Source | Hackathons | LeetCode | GSoC  
 🎨 Also editing artwork videos & designing graphics  
